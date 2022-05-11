@@ -1,0 +1,32 @@
+{
+  "name": "sbh",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^4.0.7",
+    "@vueuse/core": "^8.4.2",
+    "axios": "^0.26.1",
+    "echarts": "^5.3.2",
+    "moment": "^2.29.3",
+    "node-sass": "^7.0.1",
+    "pinia": "^2.0.13",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "videojs-contrib-hls": "^5.15.0",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.0-beta.13"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.25.0",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "sass": "^1.51.0",
+    "video.js": "^7.18.1",
+    "vite": "^2.9.5",
+    "vite-plugin-vue-setup-extend": "^0.4.0"
+  }
+}
